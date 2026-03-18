@@ -1,6 +1,5 @@
 'use client'
 
-import Navbar from '@/components/ui/Navbar'
 import HeroSection from '@/components/homepage/HeroSection'
 import AboutSection from '@/components/homepage/AboutSection'
 import ContactSection from '@/components/homepage/ContactSection'
